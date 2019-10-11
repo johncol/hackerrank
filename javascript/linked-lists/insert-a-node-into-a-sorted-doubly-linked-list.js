@@ -59,9 +59,7 @@ function sortedInsert(head, data) {
       prev: pointer.prev,
       next: pointer
     };
-    if (pointer.prev) {
-      pointer.prev.next = node;
-    }
+    pointer.prev.next = node;
     pointer.prev = node;
   } else {
     const node = {
