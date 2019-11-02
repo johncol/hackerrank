@@ -11,3 +11,7 @@ Solutions worth keeping
 - binary-calculator
 
   https://www.hackerrank.com/challenges/js10-binary-calculator
+
+## 30 days of Code
+
+https://www.hackerrank.com/domains/tutorials/30-days-of-code
